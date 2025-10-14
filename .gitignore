@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notebooks & outputs
+outputs/
+*.log
+
+# Power BI (ignore temp autosave)
+~*.pbix
+
+# Virtual env / build
+.env
+dist/
+build/
