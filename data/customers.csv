@@ -1,0 +1,501 @@
+customer_id,segment,region,plan_tier,acquisition_channel,start_date,churned,churn_date,initial_mrr
+C0001,Mid-Market,LATAM,Basic,Outbound Sales,2024-01-01,0,,44.58
+C0002,Mid-Market,NA,Basic,Self-serve,2023-10-01,1,2024-10-01,55.92
+C0003,Enterprise,EMEA,Standard,Inbound Sales,2023-10-01,0,,126.64
+C0004,Enterprise,EMEA,Standard,Inbound Sales,2022-09-01,0,,121.04
+C0005,Enterprise,EMEA,Pro,Self-serve,2022-06-01,0,,304.07
+C0006,Mid-Market,LATAM,Standard,Partner,2023-02-01,1,2024-09-01,128.1
+C0007,Mid-Market,EMEA,Enterprise,Outbound Sales,2022-11-01,1,2024-12-01,1394.01
+C0008,Mid-Market,NA,Basic,Inbound Sales,2024-12-01,1,2025-04-01,47.87
+C0009,Mid-Market,LATAM,Basic,Self-serve,2024-11-01,0,,46.29
+C0010,SMB,EMEA,Basic,Self-serve,2023-01-01,1,2023-06-01,49.54
+C0011,Mid-Market,EMEA,Standard,Self-serve,2024-06-01,0,,125.6
+C0012,Mid-Market,EMEA,Pro,Outbound Sales,2024-10-01,0,,331.41
+C0013,Mid-Market,EMEA,Basic,Self-serve,2024-10-01,0,,54.5
+C0014,Mid-Market,LATAM,Pro,Inbound Sales,2022-02-01,0,,416.88
+C0015,Mid-Market,NA,Standard,Outbound Sales,2022-06-01,1,2023-07-01,123.96
+C0016,SMB,NA,Standard,Self-serve,2024-09-01,0,,116.1
+C0017,SMB,NA,Standard,Inbound Sales,2022-02-01,0,,125.28
+C0018,SMB,LATAM,Basic,Self-serve,2022-02-01,0,,55.89
+C0019,SMB,NA,Standard,Partner,2024-06-01,0,,121.92
+C0020,SMB,APAC,Standard,Inbound Sales,2022-12-01,1,2025-03-01,125.82
+C0021,Mid-Market,EMEA,Basic,Self-serve,2023-05-01,1,2023-05-01,53.52
+C0022,SMB,LATAM,Standard,Self-serve,2024-06-01,0,,109.49
+C0023,Mid-Market,APAC,Basic,Self-serve,2023-12-01,1,2025-04-01,52.3
+C0024,SMB,LATAM,Standard,Outbound Sales,2024-02-01,0,,103.9
+C0025,Mid-Market,APAC,Standard,Outbound Sales,2023-06-01,0,,112.1
+C0026,SMB,EMEA,Standard,Inbound Sales,2022-09-01,1,2025-01-01,133.75
+C0027,SMB,EMEA,Standard,Self-serve,2023-11-01,0,,130.45
+C0028,SMB,NA,Basic,Self-serve,2024-07-01,1,2024-09-01,48.65
+C0029,Mid-Market,NA,Standard,Self-serve,2022-07-01,0,,140.47
+C0030,SMB,EMEA,Basic,Inbound Sales,2023-08-01,1,2023-08-01,43.45
+C0031,Enterprise,EMEA,Basic,Outbound Sales,2023-01-01,0,,48.97
+C0032,SMB,NA,Pro,Self-serve,2023-12-01,1,2024-02-01,359.63
+C0033,SMB,EMEA,Basic,Self-serve,2023-12-01,0,,35.96
+C0034,Enterprise,APAC,Standard,Inbound Sales,2024-01-01,0,,118.11
+C0035,SMB,EMEA,Standard,Outbound Sales,2024-03-01,0,,106.51
+C0036,SMB,LATAM,Basic,Outbound Sales,2023-11-01,1,2023-12-01,44.49
+C0037,Mid-Market,LATAM,Basic,Outbound Sales,2023-12-01,1,2024-06-01,48.64
+C0038,Mid-Market,APAC,Basic,Self-serve,2023-10-01,0,,40.87
+C0039,Mid-Market,EMEA,Pro,Self-serve,2022-05-01,0,,321.72
+C0040,SMB,LATAM,Standard,Outbound Sales,2023-10-01,1,2025-08-01,98.37
+C0041,SMB,APAC,Basic,Inbound Sales,2023-07-01,1,2024-06-01,50.62
+C0042,Mid-Market,APAC,Standard,Self-serve,2022-08-01,1,2024-10-01,121.25
+C0043,Enterprise,NA,Standard,Outbound Sales,2022-02-01,0,,115.82
+C0044,Mid-Market,EMEA,Basic,Outbound Sales,2023-06-01,0,,54.98
+C0045,SMB,NA,Standard,Inbound Sales,2024-03-01,1,2024-06-01,116.45
+C0046,Mid-Market,NA,Standard,Inbound Sales,2022-07-01,0,,119.72
+C0047,Mid-Market,EMEA,Pro,Self-serve,2023-08-01,1,2023-12-01,318.29
+C0048,SMB,LATAM,Basic,Inbound Sales,2022-05-01,0,,38.48
+C0049,SMB,LATAM,Basic,Inbound Sales,2024-03-01,0,,49.27
+C0050,SMB,NA,Basic,Outbound Sales,2024-10-01,0,,48.62
+C0051,SMB,APAC,Standard,Outbound Sales,2022-06-01,1,2022-11-01,140.52
+C0052,SMB,EMEA,Basic,Outbound Sales,2024-04-01,1,2024-12-01,53.34
+C0053,SMB,LATAM,Standard,Self-serve,2022-06-01,1,2022-08-01,115.04
+C0054,SMB,APAC,Pro,Outbound Sales,2024-03-01,1,2024-03-01,354.96
+C0055,SMB,EMEA,Standard,Outbound Sales,2023-03-01,1,2023-08-01,130.88
+C0056,Enterprise,NA,Standard,Inbound Sales,2022-11-01,0,,126.2
+C0057,Mid-Market,LATAM,Pro,Outbound Sales,2022-09-01,0,,408.41
+C0058,SMB,EMEA,Standard,Outbound Sales,2024-07-01,0,,110.53
+C0059,Enterprise,NA,Standard,Inbound Sales,2024-09-01,0,,131.7
+C0060,Mid-Market,LATAM,Basic,Inbound Sales,2024-10-01,1,2025-01-01,47.89
+C0061,SMB,NA,Enterprise,Self-serve,2024-02-01,1,2024-06-01,1223.23
+C0062,SMB,LATAM,Basic,Self-serve,2022-09-01,1,2024-05-01,47.21
+C0063,SMB,EMEA,Basic,Inbound Sales,2022-01-01,1,2023-08-01,49.29
+C0064,SMB,APAC,Basic,Outbound Sales,2022-02-01,0,,51.06
+C0065,Mid-Market,NA,Standard,Self-serve,2023-09-01,1,2025-07-01,127.12
+C0066,Mid-Market,APAC,Basic,Self-serve,2022-04-01,0,,50.31
+C0067,SMB,LATAM,Basic,Inbound Sales,2024-09-01,0,,37.57
+C0068,Enterprise,NA,Basic,Self-serve,2024-09-01,0,,49.62
+C0069,Mid-Market,EMEA,Basic,Self-serve,2024-10-01,0,,57.35
+C0070,SMB,APAC,Standard,Self-serve,2022-07-01,1,2023-06-01,118.98
+C0071,Enterprise,EMEA,Standard,Self-serve,2023-02-01,0,,137.98
+C0072,Enterprise,NA,Basic,Self-serve,2024-02-01,0,,49.4
+C0073,Enterprise,EMEA,Standard,Self-serve,2023-11-01,0,,101.14
+C0074,SMB,EMEA,Standard,Self-serve,2023-01-01,1,2025-03-01,114.8
+C0075,Mid-Market,LATAM,Basic,Outbound Sales,2023-02-01,0,,47.21
+C0076,SMB,LATAM,Basic,Inbound Sales,2024-11-01,0,,48.85
+C0077,Mid-Market,EMEA,Enterprise,Outbound Sales,2023-11-01,1,2025-04-01,1057.76
+C0078,Enterprise,NA,Standard,Self-serve,2023-09-01,0,,119.89
+C0079,Mid-Market,EMEA,Basic,Self-serve,2022-02-01,1,2025-03-01,48.36
+C0080,Mid-Market,EMEA,Standard,Outbound Sales,2023-11-01,1,2024-08-01,135.45
+C0081,Enterprise,NA,Basic,Self-serve,2024-11-01,0,,43.95
+C0082,Mid-Market,APAC,Standard,Inbound Sales,2023-02-01,0,,122.95
+C0083,SMB,LATAM,Basic,Inbound Sales,2024-03-01,0,,52.06
+C0084,SMB,LATAM,Basic,Inbound Sales,2023-10-01,1,2025-02-01,53.87
+C0085,SMB,LATAM,Basic,Self-serve,2023-10-01,0,,48.18
+C0086,Enterprise,EMEA,Pro,Self-serve,2023-07-01,1,2023-07-01,357.73
+C0087,SMB,LATAM,Standard,Inbound Sales,2024-03-01,1,2024-03-01,124.24
+C0088,SMB,EMEA,Basic,Self-serve,2024-01-01,1,2024-03-01,41.76
+C0089,SMB,NA,Basic,Inbound Sales,2024-11-01,0,,48.36
+C0090,Mid-Market,EMEA,Standard,Outbound Sales,2023-03-01,0,,119.61
+C0091,Enterprise,EMEA,Basic,Partner,2023-08-01,0,,50.42
+C0092,Enterprise,LATAM,Basic,Self-serve,2024-02-01,0,,50.36
+C0093,SMB,NA,Enterprise,Outbound Sales,2024-06-01,0,,1252.5
+C0094,Enterprise,NA,Basic,Inbound Sales,2024-05-01,0,,59.69
+C0095,Mid-Market,NA,Standard,Self-serve,2024-09-01,0,,112.85
+C0096,SMB,NA,Enterprise,Self-serve,2023-07-01,0,,1245.74
+C0097,Mid-Market,LATAM,Basic,Outbound Sales,2023-09-01,1,2025-07-01,56.51
+C0098,SMB,NA,Basic,Self-serve,2022-10-01,0,,41.01
+C0099,SMB,EMEA,Basic,Self-serve,2023-12-01,0,,51.34
+C0100,Mid-Market,EMEA,Pro,Self-serve,2022-05-01,1,2022-05-01,291.19
+C0101,SMB,EMEA,Pro,Outbound Sales,2023-07-01,1,2024-01-01,426.5
+C0102,SMB,LATAM,Pro,Outbound Sales,2024-08-01,1,2024-12-01,368.27
+C0103,SMB,EMEA,Basic,Outbound Sales,2023-05-01,1,2024-10-01,51.94
+C0104,SMB,LATAM,Pro,Self-serve,2023-03-01,1,2023-07-01,284.43
+C0105,SMB,EMEA,Pro,Self-serve,2024-11-01,1,2024-12-01,332.34
+C0106,Mid-Market,EMEA,Standard,Inbound Sales,2023-08-01,1,2024-04-01,114.0
+C0107,Mid-Market,APAC,Pro,Inbound Sales,2023-07-01,1,2024-06-01,411.83
+C0108,Mid-Market,NA,Pro,Self-serve,2024-09-01,0,,375.52
+C0109,Mid-Market,NA,Standard,Inbound Sales,2024-01-01,0,,100.16
+C0110,Mid-Market,LATAM,Standard,Partner,2023-03-01,0,,125.63
+C0111,Mid-Market,NA,Basic,Outbound Sales,2024-08-01,0,,42.49
+C0112,SMB,LATAM,Basic,Outbound Sales,2022-11-01,1,2023-06-01,41.85
+C0113,SMB,EMEA,Standard,Partner,2023-08-01,0,,125.44
+C0114,SMB,APAC,Basic,Self-serve,2024-07-01,0,,53.72
+C0115,SMB,LATAM,Pro,Inbound Sales,2022-03-01,1,2025-02-01,366.06
+C0116,SMB,EMEA,Enterprise,Partner,2022-02-01,1,2023-04-01,1425.55
+C0117,SMB,APAC,Pro,Self-serve,2023-09-01,1,2024-04-01,362.91
+C0118,Mid-Market,EMEA,Basic,Outbound Sales,2023-09-01,0,,50.85
+C0119,Enterprise,APAC,Basic,Inbound Sales,2023-04-01,0,,43.92
+C0120,Mid-Market,NA,Basic,Inbound Sales,2023-06-01,1,2024-05-01,54.29
+C0121,SMB,EMEA,Standard,Inbound Sales,2023-09-01,0,,100.18
+C0122,SMB,NA,Pro,Partner,2023-08-01,0,,420.71
+C0123,Enterprise,EMEA,Pro,Outbound Sales,2022-06-01,1,2025-04-01,380.48
+C0124,Enterprise,NA,Standard,Self-serve,2023-01-01,0,,153.48
+C0125,SMB,LATAM,Pro,Outbound Sales,2022-05-01,1,2024-01-01,363.63
+C0126,Mid-Market,LATAM,Pro,Self-serve,2022-09-01,0,,382.21
+C0127,SMB,APAC,Basic,Self-serve,2023-06-01,1,2023-11-01,48.61
+C0128,SMB,NA,Pro,Inbound Sales,2022-05-01,0,,348.49
+C0129,SMB,EMEA,Basic,Inbound Sales,2024-05-01,0,,44.74
+C0130,SMB,EMEA,Basic,Self-serve,2024-11-01,0,,42.76
+C0131,Enterprise,NA,Standard,Partner,2022-10-01,1,2025-07-01,122.27
+C0132,Mid-Market,EMEA,Basic,Outbound Sales,2023-04-01,0,,49.75
+C0133,SMB,EMEA,Standard,Inbound Sales,2024-11-01,1,2024-12-01,107.09
+C0134,Mid-Market,LATAM,Standard,Self-serve,2024-05-01,0,,109.22
+C0135,Enterprise,EMEA,Standard,Partner,2022-04-01,0,,120.39
+C0136,Enterprise,EMEA,Basic,Partner,2023-12-01,0,,44.53
+C0137,SMB,NA,Standard,Outbound Sales,2023-12-01,1,2024-11-01,124.28
+C0138,SMB,NA,Standard,Self-serve,2022-01-01,0,,107.25
+C0139,SMB,NA,Standard,Self-serve,2024-10-01,0,,123.07
+C0140,SMB,APAC,Standard,Self-serve,2023-07-01,0,,106.19
+C0141,SMB,NA,Basic,Self-serve,2022-11-01,1,2023-07-01,44.27
+C0142,Mid-Market,NA,Standard,Self-serve,2022-04-01,1,2025-03-01,91.65
+C0143,SMB,NA,Basic,Partner,2022-02-01,0,,49.2
+C0144,SMB,LATAM,Standard,Inbound Sales,2023-03-01,1,2024-01-01,137.45
+C0145,SMB,APAC,Pro,Self-serve,2023-02-01,0,,398.91
+C0146,SMB,LATAM,Standard,Self-serve,2022-03-01,1,2023-05-01,123.89
+C0147,SMB,LATAM,Standard,Self-serve,2023-12-01,1,2024-03-01,95.99
+C0148,SMB,EMEA,Enterprise,Self-serve,2023-06-01,1,2024-08-01,1301.27
+C0149,SMB,NA,Pro,Self-serve,2022-07-01,0,,357.9
+C0150,SMB,APAC,Pro,Self-serve,2023-03-01,1,2024-03-01,335.77
+C0151,SMB,LATAM,Pro,Outbound Sales,2022-10-01,1,2024-08-01,392.26
+C0152,Mid-Market,EMEA,Basic,Partner,2024-02-01,0,,53.08
+C0153,SMB,LATAM,Basic,Self-serve,2023-05-01,0,,59.81
+C0154,SMB,LATAM,Standard,Self-serve,2022-09-01,1,2022-10-01,103.13
+C0155,SMB,EMEA,Basic,Outbound Sales,2023-12-01,1,2024-07-01,43.36
+C0156,Enterprise,APAC,Standard,Self-serve,2022-09-01,0,,106.09
+C0157,SMB,APAC,Basic,Self-serve,2023-02-01,1,2023-04-01,48.57
+C0158,Mid-Market,EMEA,Standard,Outbound Sales,2022-12-01,1,2024-12-01,139.06
+C0159,Enterprise,LATAM,Standard,Self-serve,2022-09-01,0,,112.52
+C0160,SMB,NA,Standard,Inbound Sales,2022-09-01,0,,112.77
+C0161,Enterprise,LATAM,Standard,Inbound Sales,2023-12-01,0,,125.01
+C0162,Mid-Market,NA,Pro,Self-serve,2023-02-01,1,2024-04-01,379.51
+C0163,SMB,EMEA,Standard,Self-serve,2023-08-01,1,2025-01-01,93.16
+C0164,SMB,APAC,Pro,Outbound Sales,2024-08-01,0,,386.39
+C0165,Mid-Market,EMEA,Basic,Self-serve,2023-05-01,0,,46.72
+C0166,SMB,EMEA,Enterprise,Self-serve,2024-05-01,1,2024-11-01,1187.71
+C0167,Enterprise,NA,Standard,Outbound Sales,2023-02-01,1,2025-03-01,137.02
+C0168,SMB,NA,Basic,Inbound Sales,2023-02-01,0,,48.92
+C0169,Mid-Market,LATAM,Basic,Self-serve,2023-08-01,1,2024-10-01,42.34
+C0170,SMB,NA,Standard,Outbound Sales,2024-11-01,0,,102.31
+C0171,Mid-Market,NA,Basic,Self-serve,2023-09-01,1,2024-09-01,49.85
+C0172,Mid-Market,EMEA,Basic,Outbound Sales,2022-10-01,1,2024-03-01,48.33
+C0173,SMB,LATAM,Standard,Outbound Sales,2022-01-01,1,2024-02-01,120.71
+C0174,SMB,LATAM,Standard,Inbound Sales,2024-03-01,0,,115.18
+C0175,SMB,NA,Standard,Inbound Sales,2023-04-01,1,2025-02-01,134.9
+C0176,SMB,EMEA,Pro,Partner,2024-11-01,0,,350.87
+C0177,SMB,EMEA,Standard,Self-serve,2022-01-01,1,2023-11-01,98.84
+C0178,Mid-Market,EMEA,Standard,Outbound Sales,2022-10-01,0,,129.8
+C0179,SMB,LATAM,Basic,Self-serve,2023-03-01,1,2023-04-01,59.53
+C0180,Mid-Market,EMEA,Standard,Self-serve,2024-04-01,0,,121.86
+C0181,Enterprise,EMEA,Basic,Self-serve,2022-12-01,0,,51.16
+C0182,Mid-Market,EMEA,Enterprise,Partner,2023-02-01,1,2023-08-01,1106.41
+C0183,Mid-Market,APAC,Pro,Partner,2023-06-01,0,,341.51
+C0184,Mid-Market,EMEA,Standard,Self-serve,2022-05-01,1,2022-11-01,126.03
+C0185,SMB,EMEA,Basic,Self-serve,2023-07-01,1,2024-01-01,55.66
+C0186,SMB,EMEA,Pro,Outbound Sales,2024-03-01,0,,365.61
+C0187,SMB,EMEA,Pro,Self-serve,2022-06-01,0,,413.63
+C0188,SMB,LATAM,Basic,Self-serve,2022-09-01,0,,50.49
+C0189,SMB,EMEA,Basic,Inbound Sales,2024-08-01,0,,44.39
+C0190,SMB,LATAM,Pro,Inbound Sales,2022-09-01,1,2024-07-01,311.74
+C0191,Enterprise,LATAM,Basic,Partner,2023-08-01,0,,56.17
+C0192,Mid-Market,EMEA,Pro,Self-serve,2023-06-01,1,2023-11-01,385.25
+C0193,SMB,EMEA,Standard,Self-serve,2022-01-01,1,2022-07-01,100.26
+C0194,SMB,APAC,Basic,Inbound Sales,2024-07-01,0,,48.95
+C0195,SMB,EMEA,Pro,Outbound Sales,2024-02-01,1,2024-04-01,343.94
+C0196,SMB,EMEA,Basic,Inbound Sales,2024-09-01,1,2025-09-01,46.24
+C0197,SMB,APAC,Standard,Inbound Sales,2022-04-01,1,2023-07-01,103.08
+C0198,Mid-Market,NA,Basic,Self-serve,2022-05-01,0,,46.13
+C0199,SMB,NA,Basic,Outbound Sales,2022-07-01,1,2023-05-01,45.23
+C0200,Mid-Market,EMEA,Standard,Self-serve,2022-03-01,1,2022-09-01,103.36
+C0201,Enterprise,APAC,Standard,Self-serve,2023-03-01,0,,129.95
+C0202,SMB,NA,Standard,Inbound Sales,2024-09-01,0,,123.4
+C0203,Mid-Market,NA,Pro,Self-serve,2022-06-01,1,2022-06-01,333.76
+C0204,Mid-Market,NA,Standard,Self-serve,2022-10-01,0,,95.15
+C0205,SMB,NA,Basic,Outbound Sales,2024-04-01,0,,48.5
+C0206,SMB,NA,Basic,Inbound Sales,2024-02-01,1,2024-02-01,52.61
+C0207,Mid-Market,EMEA,Pro,Outbound Sales,2023-01-01,0,,324.24
+C0208,Mid-Market,EMEA,Pro,Self-serve,2022-05-01,0,,309.75
+C0209,Mid-Market,NA,Standard,Outbound Sales,2022-08-01,0,,118.52
+C0210,Enterprise,EMEA,Basic,Self-serve,2024-10-01,0,,51.68
+C0211,Mid-Market,NA,Basic,Self-serve,2022-03-01,1,2024-05-01,40.0
+C0212,Enterprise,NA,Standard,Partner,2022-03-01,0,,136.25
+C0213,Mid-Market,EMEA,Pro,Outbound Sales,2022-04-01,0,,306.28
+C0214,Mid-Market,LATAM,Standard,Inbound Sales,2023-04-01,0,,114.93
+C0215,Mid-Market,NA,Pro,Self-serve,2024-10-01,0,,391.34
+C0216,SMB,EMEA,Pro,Outbound Sales,2024-09-01,0,,354.39
+C0217,Mid-Market,NA,Basic,Inbound Sales,2024-10-01,1,2025-01-01,55.48
+C0218,SMB,APAC,Standard,Outbound Sales,2023-05-01,1,2024-05-01,138.64
+C0219,SMB,LATAM,Basic,Outbound Sales,2024-04-01,1,2025-03-01,42.7
+C0220,Enterprise,EMEA,Basic,Self-serve,2024-12-01,1,2025-03-01,54.51
+C0221,SMB,NA,Pro,Self-serve,2024-02-01,1,2024-02-01,396.39
+C0222,SMB,APAC,Standard,Inbound Sales,2024-07-01,0,,115.49
+C0223,Mid-Market,NA,Standard,Self-serve,2023-08-01,0,,116.45
+C0224,Mid-Market,NA,Basic,Self-serve,2024-07-01,0,,40.43
+C0225,SMB,EMEA,Basic,Partner,2023-04-01,0,,53.91
+C0226,Mid-Market,NA,Basic,Inbound Sales,2024-12-01,0,,37.33
+C0227,Mid-Market,APAC,Basic,Outbound Sales,2022-03-01,0,,54.84
+C0228,SMB,LATAM,Standard,Inbound Sales,2022-12-01,1,2023-09-01,102.99
+C0229,SMB,NA,Basic,Inbound Sales,2023-12-01,1,2024-03-01,56.95
+C0230,Mid-Market,EMEA,Standard,Self-serve,2023-03-01,0,,124.76
+C0231,SMB,APAC,Basic,Self-serve,2022-08-01,1,2024-10-01,55.04
+C0232,SMB,APAC,Basic,Self-serve,2022-07-01,0,,45.94
+C0233,Mid-Market,EMEA,Basic,Self-serve,2024-04-01,0,,43.33
+C0234,SMB,APAC,Standard,Outbound Sales,2023-02-01,1,2023-12-01,98.84
+C0235,SMB,APAC,Standard,Self-serve,2023-02-01,1,2023-05-01,133.09
+C0236,SMB,LATAM,Standard,Inbound Sales,2023-02-01,1,2024-03-01,127.96
+C0237,Mid-Market,NA,Standard,Self-serve,2023-04-01,1,2023-04-01,128.38
+C0238,SMB,EMEA,Standard,Self-serve,2023-12-01,1,2024-12-01,123.5
+C0239,Mid-Market,LATAM,Basic,Self-serve,2023-11-01,0,,52.72
+C0240,SMB,NA,Basic,Self-serve,2024-11-01,1,2025-03-01,48.54
+C0241,Mid-Market,LATAM,Pro,Self-serve,2022-03-01,1,2022-11-01,362.96
+C0242,SMB,NA,Standard,Self-serve,2024-04-01,0,,109.72
+C0243,Enterprise,NA,Basic,Self-serve,2023-08-01,0,,48.29
+C0244,SMB,EMEA,Pro,Outbound Sales,2023-01-01,1,2023-11-01,456.52
+C0245,Enterprise,NA,Pro,Self-serve,2022-09-01,0,,351.36
+C0246,Mid-Market,APAC,Basic,Self-serve,2024-09-01,0,,40.14
+C0247,SMB,LATAM,Standard,Inbound Sales,2022-05-01,1,2025-02-01,115.1
+C0248,Mid-Market,LATAM,Standard,Self-serve,2024-06-01,0,,107.31
+C0249,SMB,EMEA,Standard,Outbound Sales,2022-05-01,1,2022-11-01,121.91
+C0250,SMB,NA,Basic,Inbound Sales,2022-06-01,0,,45.55
+C0251,SMB,EMEA,Basic,Self-serve,2023-08-01,0,,48.94
+C0252,SMB,EMEA,Standard,Inbound Sales,2024-06-01,1,2024-11-01,111.12
+C0253,SMB,EMEA,Standard,Self-serve,2023-09-01,0,,122.37
+C0254,SMB,NA,Pro,Inbound Sales,2024-08-01,1,2025-08-01,328.04
+C0255,Enterprise,EMEA,Standard,Self-serve,2024-03-01,0,,124.28
+C0256,SMB,EMEA,Basic,Outbound Sales,2024-09-01,0,,59.74
+C0257,SMB,APAC,Standard,Self-serve,2024-12-01,1,2025-03-01,106.15
+C0258,SMB,APAC,Basic,Inbound Sales,2024-07-01,1,2025-04-01,53.62
+C0259,SMB,EMEA,Standard,Inbound Sales,2023-05-01,0,,90.57
+C0260,SMB,EMEA,Standard,Self-serve,2022-04-01,1,2023-02-01,117.21
+C0261,Mid-Market,LATAM,Basic,Self-serve,2023-02-01,0,,51.14
+C0262,SMB,NA,Standard,Outbound Sales,2023-01-01,1,2023-03-01,111.02
+C0263,SMB,APAC,Basic,Outbound Sales,2023-05-01,1,2023-10-01,41.06
+C0264,SMB,APAC,Basic,Self-serve,2022-07-01,0,,49.81
+C0265,SMB,EMEA,Basic,Outbound Sales,2024-07-01,0,,57.66
+C0266,Enterprise,EMEA,Basic,Partner,2022-08-01,0,,49.27
+C0267,SMB,NA,Enterprise,Outbound Sales,2023-10-01,0,,1267.03
+C0268,Mid-Market,EMEA,Standard,Self-serve,2024-04-01,0,,133.52
+C0269,Enterprise,NA,Basic,Outbound Sales,2023-06-01,0,,62.36
+C0270,SMB,APAC,Standard,Self-serve,2023-01-01,1,2023-10-01,107.37
+C0271,Enterprise,NA,Basic,Partner,2023-02-01,0,,45.25
+C0272,SMB,NA,Enterprise,Inbound Sales,2022-03-01,1,2024-02-01,1164.93
+C0273,Mid-Market,APAC,Standard,Self-serve,2022-09-01,0,,127.39
+C0274,SMB,LATAM,Pro,Outbound Sales,2023-10-01,1,2024-01-01,268.78
+C0275,Mid-Market,NA,Basic,Self-serve,2022-12-01,1,2023-11-01,53.27
+C0276,SMB,NA,Standard,Partner,2022-05-01,0,,121.78
+C0277,SMB,NA,Standard,Partner,2023-09-01,0,,113.59
+C0278,SMB,LATAM,Pro,Inbound Sales,2023-08-01,0,,364.89
+C0279,Mid-Market,NA,Basic,Self-serve,2023-09-01,1,2024-06-01,54.45
+C0280,Mid-Market,EMEA,Basic,Inbound Sales,2024-04-01,0,,55.14
+C0281,Mid-Market,APAC,Enterprise,Self-serve,2022-12-01,0,,1201.77
+C0282,SMB,NA,Standard,Self-serve,2024-12-01,0,,123.91
+C0283,Enterprise,APAC,Basic,Outbound Sales,2022-09-01,0,,51.44
+C0284,SMB,APAC,Basic,Self-serve,2022-07-01,1,2023-06-01,56.16
+C0285,SMB,NA,Enterprise,Self-serve,2023-09-01,1,2024-01-01,1245.75
+C0286,SMB,APAC,Basic,Partner,2023-09-01,0,,53.23
+C0287,Mid-Market,EMEA,Standard,Self-serve,2024-06-01,0,,130.71
+C0288,SMB,APAC,Pro,Self-serve,2023-04-01,1,2023-11-01,418.55
+C0289,Mid-Market,EMEA,Basic,Partner,2023-01-01,0,,47.07
+C0290,Mid-Market,LATAM,Standard,Self-serve,2022-05-01,1,2022-10-01,139.51
+C0291,SMB,EMEA,Basic,Outbound Sales,2022-12-01,0,,62.36
+C0292,SMB,APAC,Basic,Partner,2022-09-01,1,2023-09-01,47.39
+C0293,SMB,LATAM,Pro,Partner,2022-09-01,0,,342.41
+C0294,SMB,EMEA,Pro,Inbound Sales,2022-05-01,1,2023-08-01,335.0
+C0295,SMB,APAC,Standard,Self-serve,2022-08-01,1,2023-11-01,127.88
+C0296,SMB,NA,Standard,Self-serve,2024-05-01,1,2024-12-01,97.66
+C0297,Mid-Market,NA,Basic,Outbound Sales,2024-04-01,1,2025-02-01,47.5
+C0298,SMB,NA,Basic,Outbound Sales,2022-08-01,1,2024-12-01,48.63
+C0299,Mid-Market,NA,Basic,Inbound Sales,2023-06-01,1,2024-03-01,48.19
+C0300,Mid-Market,NA,Basic,Self-serve,2022-10-01,0,,48.14
+C0301,Mid-Market,APAC,Basic,Self-serve,2024-09-01,0,,47.55
+C0302,Mid-Market,NA,Basic,Self-serve,2024-06-01,0,,53.89
+C0303,Mid-Market,LATAM,Basic,Outbound Sales,2024-07-01,0,,52.69
+C0304,SMB,NA,Basic,Self-serve,2023-10-01,1,2025-09-01,58.52
+C0305,SMB,APAC,Standard,Partner,2022-09-01,1,2024-03-01,129.36
+C0306,Enterprise,APAC,Pro,Outbound Sales,2022-04-01,0,,311.58
+C0307,Mid-Market,EMEA,Basic,Self-serve,2022-03-01,1,2022-06-01,49.15
+C0308,SMB,APAC,Pro,Inbound Sales,2022-10-01,1,2024-04-01,340.33
+C0309,SMB,NA,Pro,Self-serve,2023-07-01,0,,358.93
+C0310,SMB,LATAM,Basic,Inbound Sales,2023-03-01,1,2024-06-01,55.47
+C0311,Enterprise,NA,Pro,Outbound Sales,2023-07-01,0,,356.5
+C0312,SMB,APAC,Standard,Outbound Sales,2024-01-01,1,2024-01-01,122.26
+C0313,SMB,NA,Standard,Outbound Sales,2022-01-01,0,,120.12
+C0314,SMB,EMEA,Basic,Self-serve,2022-07-01,0,,54.05
+C0315,SMB,LATAM,Standard,Self-serve,2023-05-01,1,2023-05-01,113.17
+C0316,Enterprise,NA,Basic,Outbound Sales,2024-06-01,1,2025-09-01,42.71
+C0317,SMB,NA,Standard,Self-serve,2024-06-01,0,,127.73
+C0318,Mid-Market,NA,Standard,Self-serve,2024-04-01,0,,124.5
+C0319,SMB,NA,Standard,Self-serve,2022-11-01,1,2025-02-01,135.88
+C0320,Mid-Market,EMEA,Standard,Inbound Sales,2023-11-01,1,2024-02-01,90.87
+C0321,SMB,NA,Standard,Self-serve,2022-11-01,1,2024-11-01,118.8
+C0322,SMB,EMEA,Basic,Inbound Sales,2022-05-01,1,2022-06-01,50.53
+C0323,Mid-Market,NA,Basic,Partner,2024-09-01,1,2024-10-01,42.45
+C0324,Enterprise,LATAM,Pro,Self-serve,2023-12-01,0,,346.97
+C0325,Enterprise,NA,Basic,Self-serve,2023-09-01,0,,55.93
+C0326,Mid-Market,NA,Basic,Self-serve,2024-10-01,0,,60.43
+C0327,Enterprise,NA,Basic,Outbound Sales,2023-01-01,0,,54.91
+C0328,SMB,EMEA,Basic,Self-serve,2023-07-01,1,2024-03-01,48.38
+C0329,Enterprise,LATAM,Enterprise,Self-serve,2022-07-01,0,,1351.38
+C0330,SMB,EMEA,Standard,Self-serve,2023-04-01,1,2023-11-01,130.94
+C0331,Mid-Market,NA,Pro,Outbound Sales,2024-07-01,0,,333.05
+C0332,Mid-Market,LATAM,Standard,Self-serve,2024-10-01,0,,113.02
+C0333,Mid-Market,LATAM,Standard,Outbound Sales,2023-09-01,1,2024-12-01,117.98
+C0334,SMB,NA,Basic,Partner,2024-11-01,0,,44.75
+C0335,SMB,LATAM,Standard,Self-serve,2022-05-01,1,2022-10-01,116.27
+C0336,Mid-Market,APAC,Basic,Outbound Sales,2022-03-01,1,2024-01-01,52.43
+C0337,SMB,NA,Pro,Self-serve,2024-03-01,0,,386.35
+C0338,Enterprise,LATAM,Pro,Outbound Sales,2023-03-01,0,,336.74
+C0339,Mid-Market,LATAM,Basic,Inbound Sales,2023-02-01,0,,56.94
+C0340,SMB,EMEA,Enterprise,Outbound Sales,2024-02-01,0,,1278.01
+C0341,Mid-Market,NA,Pro,Self-serve,2024-02-01,0,,374.35
+C0342,SMB,NA,Standard,Self-serve,2024-06-01,0,,108.97
+C0343,Mid-Market,APAC,Basic,Self-serve,2024-12-01,0,,59.04
+C0344,Mid-Market,APAC,Standard,Self-serve,2024-12-01,0,,126.64
+C0345,SMB,LATAM,Standard,Self-serve,2023-05-01,0,,116.01
+C0346,SMB,EMEA,Basic,Self-serve,2023-07-01,0,,47.45
+C0347,Enterprise,EMEA,Basic,Self-serve,2023-04-01,0,,48.45
+C0348,SMB,EMEA,Pro,Self-serve,2023-10-01,1,2024-06-01,314.36
+C0349,Mid-Market,EMEA,Basic,Outbound Sales,2023-10-01,0,,54.94
+C0350,SMB,NA,Standard,Inbound Sales,2023-05-01,1,2024-02-01,109.01
+C0351,SMB,LATAM,Pro,Self-serve,2022-06-01,1,2024-09-01,360.14
+C0352,SMB,EMEA,Pro,Self-serve,2023-01-01,0,,334.25
+C0353,SMB,LATAM,Basic,Self-serve,2024-07-01,0,,53.35
+C0354,SMB,NA,Pro,Partner,2022-08-01,1,2023-03-01,378.23
+C0355,Mid-Market,NA,Basic,Self-serve,2024-04-01,0,,46.78
+C0356,SMB,NA,Basic,Outbound Sales,2023-10-01,0,,49.83
+C0357,SMB,EMEA,Standard,Partner,2024-09-01,0,,102.68
+C0358,SMB,APAC,Basic,Outbound Sales,2022-01-01,0,,58.5
+C0359,SMB,NA,Basic,Inbound Sales,2023-03-01,1,2023-08-01,55.34
+C0360,SMB,APAC,Standard,Outbound Sales,2023-01-01,1,2023-02-01,103.25
+C0361,Mid-Market,EMEA,Basic,Partner,2023-01-01,1,2024-03-01,45.67
+C0362,Mid-Market,LATAM,Basic,Inbound Sales,2022-06-01,1,2024-06-01,49.33
+C0363,SMB,NA,Standard,Inbound Sales,2024-11-01,0,,120.47
+C0364,Enterprise,LATAM,Pro,Inbound Sales,2024-11-01,0,,325.99
+C0365,Mid-Market,LATAM,Standard,Inbound Sales,2024-01-01,1,2025-04-01,106.26
+C0366,SMB,NA,Basic,Inbound Sales,2024-11-01,1,2025-02-01,51.98
+C0367,Enterprise,NA,Standard,Self-serve,2024-01-01,0,,140.87
+C0368,Enterprise,APAC,Basic,Self-serve,2024-01-01,0,,50.27
+C0369,SMB,APAC,Basic,Self-serve,2022-07-01,1,2022-12-01,48.54
+C0370,SMB,NA,Pro,Self-serve,2024-06-01,0,,336.11
+C0371,Enterprise,LATAM,Basic,Self-serve,2023-11-01,0,,44.52
+C0372,Mid-Market,APAC,Basic,Self-serve,2022-04-01,1,2022-12-01,46.64
+C0373,SMB,APAC,Standard,Inbound Sales,2023-05-01,1,2025-04-01,133.63
+C0374,Mid-Market,APAC,Standard,Self-serve,2024-12-01,0,,95.15
+C0375,Mid-Market,LATAM,Standard,Outbound Sales,2022-09-01,0,,120.84
+C0376,Mid-Market,EMEA,Basic,Self-serve,2023-04-01,0,,50.14
+C0377,Mid-Market,NA,Basic,Self-serve,2023-08-01,1,2023-12-01,50.59
+C0378,Mid-Market,NA,Basic,Outbound Sales,2024-01-01,0,,53.64
+C0379,SMB,LATAM,Basic,Inbound Sales,2024-11-01,1,2025-04-01,50.31
+C0380,SMB,LATAM,Standard,Self-serve,2024-02-01,0,,114.55
+C0381,Mid-Market,NA,Pro,Outbound Sales,2024-12-01,0,,327.02
+C0382,Enterprise,APAC,Standard,Outbound Sales,2023-09-01,1,2024-11-01,135.58
+C0383,SMB,LATAM,Pro,Self-serve,2024-01-01,0,,386.44
+C0384,Mid-Market,EMEA,Standard,Self-serve,2023-11-01,1,2024-05-01,154.53
+C0385,Mid-Market,EMEA,Standard,Partner,2022-11-01,0,,116.63
+C0386,SMB,EMEA,Basic,Inbound Sales,2024-06-01,1,2024-11-01,46.81
+C0387,Mid-Market,NA,Standard,Inbound Sales,2022-12-01,1,2024-06-01,125.44
+C0388,Enterprise,NA,Standard,Outbound Sales,2024-08-01,0,,125.15
+C0389,Mid-Market,NA,Basic,Self-serve,2023-07-01,0,,53.18
+C0390,SMB,NA,Basic,Self-serve,2022-09-01,1,2024-05-01,54.24
+C0391,SMB,EMEA,Enterprise,Self-serve,2022-03-01,1,2023-01-01,1275.2
+C0392,Mid-Market,EMEA,Basic,Outbound Sales,2022-05-01,0,,55.38
+C0393,SMB,NA,Basic,Inbound Sales,2024-04-01,1,2024-04-01,56.04
+C0394,SMB,LATAM,Standard,Inbound Sales,2022-12-01,0,,134.71
+C0395,SMB,NA,Pro,Self-serve,2023-02-01,1,2025-03-01,270.85
+C0396,SMB,APAC,Standard,Self-serve,2023-12-01,1,2025-05-01,122.79
+C0397,SMB,APAC,Standard,Inbound Sales,2024-12-01,0,,108.92
+C0398,SMB,NA,Basic,Outbound Sales,2023-12-01,0,,55.28
+C0399,SMB,EMEA,Standard,Inbound Sales,2024-08-01,1,2025-02-01,92.61
+C0400,SMB,NA,Basic,Self-serve,2024-01-01,1,2024-05-01,57.35
+C0401,Mid-Market,EMEA,Pro,Outbound Sales,2023-08-01,0,,319.74
+C0402,Mid-Market,EMEA,Standard,Self-serve,2022-01-01,1,2022-08-01,106.87
+C0403,SMB,NA,Basic,Partner,2024-03-01,1,2024-06-01,51.78
+C0404,Enterprise,EMEA,Basic,Self-serve,2022-01-01,0,,48.13
+C0405,SMB,NA,Basic,Inbound Sales,2022-02-01,1,2022-03-01,58.9
+C0406,Mid-Market,NA,Basic,Self-serve,2024-02-01,1,2025-06-01,56.82
+C0407,Mid-Market,LATAM,Basic,Partner,2024-02-01,0,,47.45
+C0408,Enterprise,NA,Standard,Inbound Sales,2022-08-01,0,,132.51
+C0409,Mid-Market,EMEA,Standard,Self-serve,2024-02-01,0,,113.46
+C0410,Mid-Market,EMEA,Basic,Self-serve,2023-07-01,0,,47.23
+C0411,Mid-Market,APAC,Basic,Self-serve,2023-10-01,1,2024-10-01,53.57
+C0412,SMB,NA,Basic,Self-serve,2022-09-01,1,2022-10-01,57.28
+C0413,SMB,EMEA,Pro,Partner,2024-04-01,0,,334.56
+C0414,Mid-Market,LATAM,Basic,Self-serve,2022-01-01,1,2023-10-01,48.18
+C0415,SMB,EMEA,Standard,Outbound Sales,2022-10-01,0,,123.61
+C0416,Mid-Market,APAC,Pro,Inbound Sales,2023-01-01,0,,318.71
+C0417,SMB,LATAM,Standard,Inbound Sales,2023-05-01,0,,138.78
+C0418,SMB,LATAM,Pro,Self-serve,2024-12-01,1,2025-03-01,318.38
+C0419,SMB,LATAM,Basic,Self-serve,2024-03-01,1,2025-02-01,46.83
+C0420,SMB,APAC,Enterprise,Outbound Sales,2022-10-01,1,2022-10-01,1412.07
+C0421,Mid-Market,APAC,Basic,Partner,2022-04-01,0,,51.07
+C0422,SMB,LATAM,Basic,Self-serve,2023-12-01,0,,59.72
+C0423,SMB,LATAM,Standard,Self-serve,2024-02-01,1,2024-11-01,117.37
+C0424,SMB,NA,Pro,Inbound Sales,2024-09-01,0,,438.18
+C0425,SMB,NA,Pro,Partner,2024-12-01,1,2025-07-01,371.55
+C0426,Mid-Market,EMEA,Basic,Self-serve,2024-09-01,1,2024-11-01,46.24
+C0427,SMB,NA,Basic,Self-serve,2024-10-01,0,,46.16
+C0428,Mid-Market,EMEA,Pro,Outbound Sales,2022-12-01,1,2023-09-01,299.0
+C0429,Mid-Market,NA,Basic,Self-serve,2022-01-01,1,2025-02-01,43.26
+C0430,Mid-Market,NA,Pro,Self-serve,2022-09-01,0,,326.92
+C0431,Mid-Market,LATAM,Pro,Inbound Sales,2023-04-01,1,2025-02-01,315.29
+C0432,Mid-Market,APAC,Standard,Partner,2023-08-01,0,,89.06
+C0433,Enterprise,NA,Basic,Self-serve,2023-09-01,0,,54.21
+C0434,SMB,EMEA,Standard,Inbound Sales,2023-10-01,1,2024-11-01,129.3
+C0435,SMB,APAC,Basic,Inbound Sales,2022-12-01,1,2025-02-01,51.54
+C0436,SMB,NA,Pro,Inbound Sales,2023-01-01,1,2025-01-01,310.28
+C0437,SMB,LATAM,Standard,Inbound Sales,2022-12-01,0,,139.76
+C0438,Mid-Market,EMEA,Pro,Inbound Sales,2022-02-01,0,,343.76
+C0439,Enterprise,NA,Basic,Self-serve,2024-03-01,0,,45.83
+C0440,SMB,APAC,Enterprise,Inbound Sales,2023-06-01,1,2025-09-01,1227.91
+C0441,SMB,NA,Standard,Inbound Sales,2023-05-01,1,2024-09-01,122.1
+C0442,SMB,LATAM,Basic,Inbound Sales,2023-11-01,0,,37.49
+C0443,Mid-Market,LATAM,Basic,Outbound Sales,2024-11-01,0,,49.85
+C0444,Mid-Market,NA,Standard,Self-serve,2022-03-01,1,2022-03-01,121.45
+C0445,SMB,LATAM,Standard,Outbound Sales,2024-03-01,0,,115.46
+C0446,Enterprise,APAC,Pro,Outbound Sales,2022-02-01,0,,303.75
+C0447,Mid-Market,NA,Basic,Self-serve,2024-07-01,0,,43.54
+C0448,SMB,APAC,Basic,Inbound Sales,2023-02-01,1,2024-12-01,52.57
+C0449,Mid-Market,EMEA,Standard,Self-serve,2022-02-01,1,2023-11-01,129.14
+C0450,Mid-Market,EMEA,Basic,Self-serve,2022-05-01,0,,47.76
+C0451,SMB,EMEA,Standard,Self-serve,2024-04-01,1,2024-12-01,124.59
+C0452,SMB,NA,Enterprise,Self-serve,2023-03-01,1,2024-05-01,1145.05
+C0453,SMB,APAC,Enterprise,Self-serve,2022-01-01,1,2025-06-01,1097.61
+C0454,SMB,APAC,Pro,Outbound Sales,2022-08-01,1,2024-06-01,357.51
+C0455,Mid-Market,EMEA,Pro,Self-serve,2022-01-01,1,2024-02-01,309.78
+C0456,Enterprise,LATAM,Basic,Outbound Sales,2024-11-01,0,,59.47
+C0457,SMB,EMEA,Standard,Inbound Sales,2024-06-01,0,,102.75
+C0458,SMB,EMEA,Standard,Outbound Sales,2022-01-01,1,2025-05-01,123.41
+C0459,SMB,LATAM,Pro,Inbound Sales,2022-07-01,1,2022-08-01,355.26
+C0460,SMB,EMEA,Basic,Self-serve,2023-10-01,0,,50.31
+C0461,Mid-Market,EMEA,Standard,Inbound Sales,2024-05-01,0,,137.8
+C0462,SMB,LATAM,Basic,Self-serve,2024-04-01,1,2025-09-01,36.57
+C0463,SMB,EMEA,Standard,Inbound Sales,2024-08-01,0,,124.94
+C0464,SMB,NA,Pro,Partner,2022-02-01,0,,340.43
+C0465,Mid-Market,NA,Pro,Self-serve,2024-06-01,0,,370.44
+C0466,SMB,EMEA,Basic,Self-serve,2023-07-01,0,,50.27
+C0467,Mid-Market,LATAM,Enterprise,Outbound Sales,2023-10-01,0,,1191.0
+C0468,SMB,EMEA,Standard,Outbound Sales,2024-03-01,1,2024-05-01,105.51
+C0469,Mid-Market,LATAM,Basic,Inbound Sales,2022-06-01,0,,46.63
+C0470,Mid-Market,EMEA,Basic,Self-serve,2023-08-01,0,,65.66
+C0471,SMB,EMEA,Basic,Inbound Sales,2022-04-01,1,2022-08-01,52.97
+C0472,SMB,NA,Basic,Self-serve,2023-01-01,0,,55.26
+C0473,Enterprise,EMEA,Enterprise,Outbound Sales,2023-12-01,0,,1157.77
+C0474,Enterprise,LATAM,Standard,Partner,2024-01-01,0,,109.73
+C0475,SMB,APAC,Pro,Outbound Sales,2022-01-01,0,,377.17
+C0476,SMB,EMEA,Basic,Outbound Sales,2023-04-01,1,2023-11-01,40.48
+C0477,Enterprise,NA,Basic,Self-serve,2023-08-01,0,,46.75
+C0478,Mid-Market,NA,Standard,Outbound Sales,2023-06-01,0,,115.75
+C0479,SMB,NA,Basic,Outbound Sales,2024-03-01,1,2024-11-01,54.72
+C0480,Enterprise,LATAM,Standard,Self-serve,2024-08-01,0,,124.96
+C0481,SMB,NA,Pro,Outbound Sales,2022-09-01,0,,333.45
+C0482,Mid-Market,EMEA,Standard,Self-serve,2024-05-01,0,,124.43
+C0483,SMB,EMEA,Standard,Inbound Sales,2022-07-01,0,,116.36
+C0484,SMB,NA,Basic,Outbound Sales,2023-10-01,1,2023-10-01,55.35
+C0485,SMB,EMEA,Basic,Inbound Sales,2022-08-01,0,,51.18
+C0486,Mid-Market,NA,Basic,Self-serve,2022-05-01,0,,58.68
+C0487,SMB,EMEA,Standard,Inbound Sales,2024-04-01,0,,116.67
+C0488,SMB,NA,Basic,Inbound Sales,2024-04-01,1,2025-01-01,56.13
+C0489,SMB,LATAM,Basic,Partner,2023-08-01,0,,50.45
+C0490,SMB,NA,Standard,Self-serve,2023-05-01,1,2025-09-01,111.63
+C0491,Enterprise,APAC,Basic,Self-serve,2023-08-01,0,,63.01
+C0492,SMB,EMEA,Basic,Outbound Sales,2023-11-01,0,,56.55
+C0493,Mid-Market,LATAM,Basic,Self-serve,2023-06-01,0,,51.17
+C0494,Enterprise,EMEA,Pro,Inbound Sales,2024-01-01,0,,376.81
+C0495,SMB,LATAM,Standard,Inbound Sales,2022-02-01,1,2024-02-01,107.02
+C0496,SMB,LATAM,Standard,Outbound Sales,2022-06-01,0,,107.44
+C0497,SMB,EMEA,Basic,Inbound Sales,2022-02-01,1,2022-11-01,55.57
+C0498,SMB,EMEA,Enterprise,Inbound Sales,2023-09-01,0,,1200.58
+C0499,SMB,EMEA,Standard,Self-serve,2023-02-01,1,2023-08-01,118.13
+C0500,SMB,EMEA,Basic,Self-serve,2022-05-01,1,2022-09-01,48.56
